@@ -1,0 +1,29 @@
+{
+  "name": "exercise11.7",
+  "version": "1.0.0",
+  "description": "rozbudowany Kanban",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roboszyn/Exercise-11.7.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "RS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roboszyn/Exercise-11.7/issues"
+  },
+  "homepage": "https://github.com/roboszyn/Exercise-11.7#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
